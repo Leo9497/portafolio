@@ -39,7 +39,7 @@ export default function ContactUs() {
                           </div>
                           <div className="col-lg-8 col-sm-12 form-group pt-1 mx-auto"   >
                               <label>Email</label>
-                              <input type="text"   className="form-control" size="40" required placeholder="Nombre " name="name"/>
+                              <input type="text"   className="form-control" size="40" required placeholder="Correo" name="name"/>
                           </div>
             
 
