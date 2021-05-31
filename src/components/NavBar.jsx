@@ -73,7 +73,7 @@ function NavBar(props) {
                 className="nav-links"
                 onClick={gotoAbout}
               >
-                Sobre mì
+                Sobre mí
               </NavLink>
             </li>
             <li className="nav-item">

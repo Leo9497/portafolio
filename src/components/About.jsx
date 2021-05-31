@@ -39,7 +39,7 @@ function About() {
           <Box  p={3} letterSpacing={1}   >
           <p  className="color" align="justify" style={{fontSize: 22}}>Soy Ingeniero en Telemática (informática con telecomunicaciones),
             me enfoco al desarrolllo de software, tanto para apps moviles, desarrollo web y 
-            programaciòn de  microcontroladores, fronted y backend, soy capaz de adaptarme a cualquier circunstancia y dar 
+            programación de  microcontroladores, fronted y backend, soy capaz de adaptarme a cualquier circunstancia y dar 
             siempre lo mejor de mí en cualquier proyecto.</p>
         
             </Box>
