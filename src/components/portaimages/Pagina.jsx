@@ -34,7 +34,7 @@ export default function Pagina() {
             Aprende la lengua Mixe
           </Typography>
           <Typography style={{fontSize: 16}} className="color" variant="body2"   align="justify">
-            Esta es un proyecto personal que esta en proceso, aprovechando la tecnología como una 
+            Este es un proyecto personal que esta en proceso, aprovechando la tecnología como una 
             herramienta para la fomentación de la lengua indigena Mixe teniendo como objetivo compartir diferentes 
             materiales digitales.
           </Typography>
