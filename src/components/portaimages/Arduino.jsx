@@ -26,7 +26,7 @@ export default function Cards() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="/images/pagina.png"
+          image="/images/carrito.jpg"
           title="Arduino"
         />
         <CardContent>
