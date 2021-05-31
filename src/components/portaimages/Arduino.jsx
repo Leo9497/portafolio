@@ -26,8 +26,8 @@ export default function Cards() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="/images/carrito.jpg"
-          title="Contemplative Reptile"
+          image="/images/pagina.png"
+          title="Arduino"
         />
         <CardContent>
           <Typography className="color"  gutterBottom variant="h5" component="h2">
