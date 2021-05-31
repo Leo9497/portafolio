@@ -34,7 +34,7 @@ export default function Cards() {
             Programación Arduino
           </Typography>
           <Typography className="color"  variant="body2" component="p" align="justify" style={{fontSize: 16}}>
-            Este es unos de los proyectos que realicé durante mi instancia en la universidad
+            poyecto de practica de
             Programación de microcontrolador arduino carro robot que funciona por vía bluetoth
             y la aplicación desarrollada para un dispositivo android.
             Aparte como otros proyectos como semaforro inteligente y una incubadora.
