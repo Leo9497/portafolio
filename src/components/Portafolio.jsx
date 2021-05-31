@@ -40,16 +40,16 @@ function Portafolio() {
           
           </Typography></Paper>
         </Grid>
-        <Grid item xs>
-          <Paper className={classes.paper}><Arduino/></Paper>
-        </Grid>
+       
         
         <Grid item xs>
           <Paper className={classes.paper}><AppMixe/>
           </Paper>
           
         </Grid>
-       
+        <Grid item xs>
+          <Paper className={classes.paper}><Arduino/></Paper>
+        </Grid>
         
         <Grid item xs>
           <Paper className={classes.paper}><Pagina/></Paper>
